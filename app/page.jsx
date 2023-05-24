@@ -8,7 +8,7 @@ function Home() {
             <span className='text-center'> AI-Generated Suggestions</span>
         </h1>
 
-        <p className='desc text_center' > Data tark is an open-source AI prompting tool for the modern era to investigate, develop, and share creative prompts.</p>
+        <p className='desc text_center' > Data Trek is an open-source AI prompting tool for the modern era to investigate, develop, and share creative prompts.</p>
       
       <Feed/>
     </section>
